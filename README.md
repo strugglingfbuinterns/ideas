@@ -7,3 +7,4 @@ travel app - gives overview of city and other fun facts; make it easier to trave
 
 local event app?? - kinda like facebook events lol but more in depth hopefully
 
+travel buddy app - travel with people on trips or something
